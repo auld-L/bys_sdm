@@ -1,0 +1,24 @@
+__pycache__/
+*.pyc
+*.pyo
+*.so
+*.dylib
+*.o
+*.mod
+*.exe
+
+.DS_Store
+.vscode/
+.idea/
+
+*.log
+*.tmp
+
+.env
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Fortran compiled output
+sdm2025

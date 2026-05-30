@@ -22,3 +22,9 @@ env/
 
 # Fortran compiled output
 sdm2025
+
+# Fortran build outputs
+external/SDM/SDM2025/SourceCode/sdm2025
+external/SDM/SDM2025/SourceCode/sdmalloc.mod
+external/SDM/.DS_Store
+external/SDM/SDM2025/.DS_Store
